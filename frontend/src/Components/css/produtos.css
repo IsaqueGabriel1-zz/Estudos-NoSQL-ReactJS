@@ -1,0 +1,46 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+#Pagamentos{
+    margin-top: 100px;
+    background: #040b1f;
+    color: #FFF7D6;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 150px;
+    border-radius: 0px 0px 20px 20px ;
+}
+button{
+    color: #FFF7D6;
+    background: #040b1f;
+}
+b{
+    color: red;
+}
+p{
+    width: 150px;
+}
+img{
+    width: 130px;
+}
+
+.Conteiner{
+    background: white;
+    display: grid;
+    grid: 10px / auto auto auto;
+    grid-gap: 0px;
+    padding: 20px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 10px;
+    margin: 25px;
+    border: 1px solid;
+    box-shadow: 5px 10px #586c8a;
+    transition: 0.4s;
+}
+.Conteiner:hover{
+    box-shadow: 0px 0px;
+}
+#events:hover{
+    background: red;
+}

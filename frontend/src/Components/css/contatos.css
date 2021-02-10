@@ -1,0 +1,21 @@
+
+.btn{
+    width: 100%;
+}
+#btn1{
+    background: #040b1f;
+    color: #FFF7D6;
+}
+#Pagamentos3{
+    margin-top: 200px;
+    background: #040b1f;
+    color: #FFF7D6;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 200px;
+    border-radius: 20px 20px 0px 0px ;
+}
+#p{
+    text-align: center;
+    margin-bottom: 20px;
+    width: 70%;
+}

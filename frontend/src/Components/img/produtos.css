@@ -1,0 +1,31 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+
+#Pagamentos{
+    margin-top: 100px;
+    background: #040b1f;
+    color: #FFF7D6;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 150px;
+}
+button{
+    color: #FFF7D6;
+    background: #040b1f;
+}
+b{
+    color: red;
+}
+img{
+    width: 120px;
+}
+#teste2{
+    display: grid;
+    grid: 150px / auto auto auto;
+    grid-gap: 10px;
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+    
+}
